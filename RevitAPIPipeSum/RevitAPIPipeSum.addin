@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\RevitAPITrainig\RevitAPIPipeSum.dll"</Assembly>
+		<AddInId>BDF9AC91-1936-42A2-ADCA-47462DDF957D</AddInId>
+		<FullClassName>RevitAPIPipeSum.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>PipeSum</Text>
+	</AddIn>
+</RevitAddIns>
